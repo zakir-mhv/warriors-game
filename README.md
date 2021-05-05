@@ -13,5 +13,5 @@ Warriors Game is a web game with simple design and interactivity.
 
 ## Technologies used
 
-- **Bootstrap**
 - **JavaScript**
+- **Bootstrap**
